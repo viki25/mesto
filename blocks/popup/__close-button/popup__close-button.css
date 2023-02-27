@@ -6,8 +6,8 @@
   width: 32px;
   height: 32px;
   position: absolute;
-  top: -40px;
-  right: -40px;
+  top: -205px;
+  right: -470px;
   cursor: pointer;
   border: none;
   padding: 0;
@@ -18,16 +18,11 @@
   transition: 0.5s;
 }
 
-@media screen and (max-width: 950px) {
-  .popup__close-button {
-    right: 0;
-  }
-}
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 540px) {
   .popup__close-button {
     width: 20px;
     height: 20px;
-    top: -38px;
+    top: -196px;
+    right: -282px;
   }
 }
