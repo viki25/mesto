@@ -6,8 +6,8 @@
   width: 32px;
   height: 32px;
   position: absolute;
-  top: -205px;
-  right: -470px;
+  top: -40px;
+  right: -40px;
   cursor: pointer;
   border: none;
   padding: 0;
@@ -22,7 +22,7 @@
   .popup__close-button {
     width: 20px;
     height: 20px;
-    top: -196px;
-    right: -282px;
+    top: -35px;
+    right: 0px;
   }
 }
